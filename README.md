@@ -6,6 +6,6 @@
 
 Train on GPU：NVIDIA Tesla P100
 
-Dataset：CelebA - https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-         Flickr-Faces-HQ - https://github.com/NVlabs/ffhq-dataset
+Dataset：
+CelebA - https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+Flickr-Faces-HQ - https://github.com/NVlabs/ffhq-dataset
